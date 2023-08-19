@@ -1,6 +1,5 @@
-# Option 2 – Rideshare System – Prospective Drivers Validator and Simulator
-## Before you start
-**Please review this doc in [github repo](https://github.khoury.northeastern.edu/CS5004-Summer2023/Student_repo_Huiru_Yang/tree/main/FinalProject) or in a markdown viewer for better formatting and readability.**
+# Rideshare System – Prospective Drivers Validator and Simulator
+![image](/src/main/resources/diagram1.png)
 ## Content
 - [Overview](#overview)
 - [Usage](#usage)
